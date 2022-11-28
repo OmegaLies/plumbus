@@ -1,0 +1,60 @@
+.wrapper {
+  margin: 0 10%;
+}
+
+.image {
+  width: 100%;
+}
+
+.video {
+  width: 560px;
+  height: 315px;
+  margin-bottom: 1em;
+}
+
+.container {
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+.column-1-4 {
+  width: 22%;
+  margin-right: 3%;
+  float: left;
+}
+
+.review-image {
+  display: inline-block;
+  border: 3px solid #4CAF50;
+  border-radius: 100%;
+  width: 70%;
+  margin-right: 15%;
+  margin-left: 15%;
+}
+
+.container:after {
+  content: "";
+  visibility: hidden;
+  display: block;
+  height: 0;
+  clear: both;
+}
+
+.order {
+  background: #333333;
+  width: 350px;
+  margin: 2px auto;
+}
+
+.order-button {
+  width: 50%;
+  margin: auto;
+  padding: 20px;
+}
+
+.button {
+  background: #555555;
+  padding: 10px;
+  text-decoration: none;
+  color: white;
+}

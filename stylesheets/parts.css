@@ -1,0 +1,14 @@
+.parts-image {
+  float: left;
+  width: 30%;
+}
+
+.parts-list {
+  float: left;
+  width: 65%;
+  margin-left: 5%;
+}
+
+.parts-list li {
+  font-size: 1.5em;
+}

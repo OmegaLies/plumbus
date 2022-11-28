@@ -1,0 +1,39 @@
+body {
+  font-family: "Bitstream Charter", sans-serif;
+  color: #444;
+  font-size: 16px;
+}
+
+.title-large {
+  font-size: 4em;
+  margin-bottom: 0.6em;
+}
+
+.title {
+  font-size: 2.5em;
+  margin: 0.4em 0;
+}
+
+.text {
+  font-size: 1.5em;
+  margin-bottom: 1em;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.review-name {
+  display: block;
+  font-size: 1.2em;
+
+}
+
+.review-text {
+  margin-bottom: 1em;
+  word-break: normal;
+}
+
+.white {
+  color: white;
+}
