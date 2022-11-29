@@ -53,8 +53,13 @@
 }
 
 .button {
-  background: #555555;
+  background: #666666;
   padding: 10px;
   text-decoration: none;
   color: white;
+}
+
+.button:hover {
+  background: white;
+  color: black;
 }
