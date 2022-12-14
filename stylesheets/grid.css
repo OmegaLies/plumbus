@@ -1,4 +1,12 @@
-.wrapper {
+.production {
+  background-color: #555555;
+}
+
+.orders {
+  background-color: #555555;
+}
+
+.content {
   margin: 0 10%;
 }
 
@@ -9,7 +17,7 @@
 .video {
   width: 560px;
   height: 315px;
-  margin-bottom: 1em;
+  margin: 0 auto;
 }
 
 .container {
@@ -40,16 +48,9 @@
   clear: both;
 }
 
-.order {
-  background: #333333;
-  width: 350px;
-  margin: 2px auto;
-}
-
-.order-button {
-  width: 50%;
-  margin: auto;
-  padding: 20px;
+.column-1-3 {
+  width: 33.33%;
+  float: left;
 }
 
 .button {

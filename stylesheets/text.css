@@ -1,16 +1,22 @@
 body {
   font-family: "Bitstream Charter", sans-serif;
-  color: #444;
+  color: #f2f2f2;
   font-size: 16px;
+  background: #333;
 }
 
 .title-large {
   font-size: 4em;
-  margin-bottom: 0.6em;
+  margin-bottom: 0.4em;
 }
 
 .title {
   font-size: 2.5em;
+  margin: 0.4em 0;
+}
+
+.title-medium {
+  font-size: 2em;
   margin: 0.4em 0;
 }
 
@@ -34,6 +40,6 @@ body {
   word-break: normal;
 }
 
-.white {
-  color: white;
+.text-grey {
+  color: #333333;
 }
